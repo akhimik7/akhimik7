@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akhimik7, system and network administrator. I want to be C/C++,/C# and Java Developer. And it's start of my way.
+- 👋 Hi, I’m @akhimik7, system and network administrator. I want to be and Java/C# Developer. And it's start of my way.
 - 👀 I’m interested in all
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on development in order constatnly improving my skills.
 - 📫 How to reach me - ivanv.fedorenko@yandex.ru
 <!---
